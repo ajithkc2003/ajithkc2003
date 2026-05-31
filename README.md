@@ -43,6 +43,7 @@ I'm **Ajith K.C.**, a Statistics Postgraduate specializing in Data Analytics, St
 <img src="https://img.shields.io/badge/Biostatistics-1565C0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data_Visualization-00ACC1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Statistical_Modeling-00897B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </div>
 </div>
 
