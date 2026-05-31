@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Ajith K.C.**, a Statistics Postgraduate specializing in Data Analytics, Statistical Modeling, Clinical Research, and Business Intelligence. With experience in SAS Clinical Programming, Data Science, and Machine Learning, I am passionate about transforming data into actionable insights and supporting data-driven decision-making.
+I'm **AJITH K C**, a Statistics Postgraduate specializing in Data Analytics, Statistical Modeling, Clinical Research, and Business Intelligence. With experience in SAS Clinical Programming, Data Science, and Machine Learning, I am passionate about transforming data into actionable insights and supporting data-driven decision-making.
 
 <a href="www.linkedin.com/in/ajith-k-c-b32209317"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
