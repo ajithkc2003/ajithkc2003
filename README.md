@@ -149,4 +149,4 @@ I'm **AJITH K C**, a Statistics Postgraduate specializing in Data Analytics, Sta
 
 💼 LinkedIn:www.linkedin.com/in/ajith-k-c-b32209317
 
-📍 Kerala, India
+📍 Muvattupuzha, India
