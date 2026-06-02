@@ -127,7 +127,7 @@ I'm **AJITH K C**, a Statistics Postgraduate specializing in Data Analytics, Sta
 | **Global Happiness Index Dashboard** | Developed an interactive Power BI dashboard to analyze global happiness indicators and influencing factors. |
 | **NIRF Statistical Analysis** | Performed statistical analysis on NIRF higher education data to identify trends and year-to-year variations. |
 | **Exploratory Data Analysis using SAS** | Conducted EDA, correlation analysis, transformations, and visualizations using SAS. |
-| **Fuzzy Set & Fuzzy Logic and Its Applications** | Conducted an in-depth study of fuzzy set theory and fuzzy logic for handling uncertainty and imprecision in decision-making. Explored applications in artificial intelligence, expert systems, control systems, pattern recognition, and data analysis. |
+| [**Fuzzy Set & Fuzzy Logic and Its Applications** ](https://github.com/ajithkc2003/fuzzy-set-theory-and-applications/blob/main/README.md)| Conducted an in-depth study of fuzzy set theory and fuzzy logic for handling uncertainty and imprecision in decision-making. Explored applications in artificial intelligence, expert systems, control systems, pattern recognition, and data analysis. |
 
 ---
 
