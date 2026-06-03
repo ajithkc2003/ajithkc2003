@@ -60,6 +60,16 @@ I'm **AJITH K C**, a Statistics Postgraduate specializing in Data Analytics, Sta
 - Contributed to the development of reusable analytical workflows for research applications.
 - Strengthened expertise in R programming, statistical modeling, and quantitative research.
 
+  #### Internship Certificate
+
+<p align="center">
+  <img src="assets/cusat_certificate.jpg" alt="CUSAT Internship Certificate" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/cusat_certificate.jpg" alt="CUSAT Internship Certificate" width="700">
+</p>
+
 
 ### 🏥 SAS Clinical Programming Intern | IQVIA
 **Jan 2026 – Mar 2026**
