@@ -63,15 +63,15 @@ I'm **AJITH K C**, a Statistics Postgraduate specializing in Data Analytics, Sta
 ![Nmap Scan](https://github.com/ajithkc2003/ajithkc2003/blob/main/cusat%202.jpeg) 
 ![Nmap Scan](https://github.com/ajithkc2003/ajithkc2003/blob/main/cusat.jpeg)
 
-### 🏥 Research Intern | Centre for Budget Studies, CUSAT
-**May 2026 – Jun 2026**
+### 🏥 SAS Clinical Programming Intern | IQVIA
+Jan 2026 – Mar 2026
 
-- Worked on the project "Building Econometric Package Using R" as part of a 120-hour research internship.
-- Developed and implemented econometric functions and statistical tools using R.
-- Applied econometric and statistical techniques for data analysis and model development.
-- Contributed to the creation of reusable analytical workflows for research applications.
-- Strengthened expertise in R programming, econometrics, statistical modeling, and quantitative research.
-
+- Applied SAS programming techniques for clinical data analysis, reporting, and dataset validation.
+- Worked with CDISC standards (SDTM & ADaM) to structure, transform, and validate clinical trial datasets.
+- Performed data cleaning, quality checks, and data transformation using SAS procedures.
+- Developed an understanding of clinical trial processes, study design, and regulatory requirements.
+- Gained hands-on experience in clinical data management and the clinical data lifecycle.
+  
 ### 📊 Data Science & Analytics Intern | Upsta Analytics
 **Nov 2025 – Dec 2025**
 
