@@ -61,6 +61,7 @@ I'm **AJITH K C**, a Statistics Postgraduate specializing in Data Analytics, Sta
 - Strengthened expertise in R programming, statistical modeling, and quantitative research.
 
   #### Internship Certificate
+  ![Nmap Scan](link-to-image)
 
 
 
