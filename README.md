@@ -51,8 +51,15 @@ I'm **AJITH K C**, a Statistics Postgraduate specializing in Data Analytics, Sta
 
 <h2 id="experience" align=''> Internship Experience </h2>
 
-### 📈 Intern | Centre for Budget Studies, CUSAT
-**may 2026 – Present** 
+### 📈Research Intern | Centre for Budget Studies, CUSAT
+**may 2026 – june 2026** 
+
+- Worked on the project "Building Econometric Package Using R" under the Centre for Budget Studies, CUSAT.
+- Developed and documented econometric functions and statistical tools using R.
+- Applied econometric techniques for data analysis and model implementation.
+- Contributed to the development of reusable analytical workflows for research applications.
+- Strengthened expertise in R programming, statistical modeling, and quantitative research.
+
 
 ### 🏥 SAS Clinical Programming Intern | IQVIA
 **Jan 2026 – Mar 2026**
