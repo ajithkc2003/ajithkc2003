@@ -63,7 +63,7 @@ I'm **AJITH K C**, a Statistics Postgraduate specializing in Data Analytics, Sta
   #### Internship Certificate
  
 ![Nmap Scan](https://github.com/ajithkc2003/ajithkc2003/blob/main/cusat%202.jpeg) 
-![Nmap Scan](link-to-image)
+![Nmap Scan](https://github.com/ajithkc2003/ajithkc2003/blob/main/cusat.jpeg)
 
 ### 🏥 SAS Clinical Programming Intern | IQVIA
 **Jan 2026 – Mar 2026**
