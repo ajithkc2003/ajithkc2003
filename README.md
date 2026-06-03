@@ -82,7 +82,7 @@ I'm **AJITH K C**, a Statistics Postgraduate specializing in Data Analytics, Sta
 - Supported data-driven decision-making through analytical insights.
 - 
 #### Internship Certificate
-![Nmap Scan](link-to-image)
+![Nmap Scan](https://github.com/ajithkc2003/ajithkc2003/blob/main/Data%20Science%20%26%20Analytics%20Internship%20Certificate)
 
 ---
 
