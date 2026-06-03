@@ -62,13 +62,6 @@ I'm **AJITH K C**, a Statistics Postgraduate specializing in Data Analytics, Sta
 
   #### Internship Certificate
 
-<p align="center">
-  <img src="[assets/cusat_certificate.jpg](https://github.com/ajithkc2003/ajithkc2003/blob/main/cusat%201.jpeg)" alt="CUSAT Internship Certificate" width="700">
-</p>
-
-<p align="center">
-  <img src="assets/cusat_certificate.jpg" alt="CUSAT Internship Certificate" width="700">
-</p>
 
 
 ### 🏥 SAS Clinical Programming Intern | IQVIA
