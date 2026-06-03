@@ -80,6 +80,9 @@ I'm **AJITH K C**, a Statistics Postgraduate specializing in Data Analytics, Sta
 - Performed data analysis using Python and PySpark on financial datasets.
 - Developed analytical and problem-solving skills using real-world business data.
 - Supported data-driven decision-making through analytical insights.
+- 
+#### Internship Certificate
+![Nmap Scan](link-to-image)
 
 ---
 
