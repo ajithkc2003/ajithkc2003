@@ -53,13 +53,11 @@ I'm **AJITH K C**, a Statistics Postgraduate specializing in Data Analytics, Sta
 
 ### 📈Research Intern | Centre for Budget Studies, CUSAT
 **may 2026 – june 2026** 
-
 - Worked on the project "Building Econometric Package Using R" under the Centre for Budget Studies, CUSAT.
 - Developed and documented econometric functions and statistical tools using R.
 - Applied econometric techniques for data analysis and model implementation.
 - Contributed to the development of reusable analytical workflows for research applications.
 - Strengthened expertise in R programming, statistical modeling, and quantitative research.
-
   #### Internship Certificate
  
 ![Nmap Scan](https://github.com/ajithkc2003/ajithkc2003/blob/main/cusat%202.jpeg) 
@@ -81,7 +79,7 @@ I'm **AJITH K C**, a Statistics Postgraduate specializing in Data Analytics, Sta
 - Performed data analysis using Python and PySpark on financial datasets.
 - Developed analytical and problem-solving skills using real-world business data.
 - Supported data-driven decision-making through analytical insights.
-- 
+  
 #### Internship Certificate
 ![Nmap Scan](https://github.com/ajithkc2003/ajithkc2003/blob/main/Data%20Science%20%26%20Analytics%20Internship%20Certificate)
 
