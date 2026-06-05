@@ -64,7 +64,7 @@ I'm **AJITH K C**, a Statistics Postgraduate specializing in Data Analytics, Sta
 ![Nmap Scan](https://github.com/ajithkc2003/ajithkc2003/blob/main/cusat.jpeg)
 
 ### 🏥 SAS Clinical Programming Intern | IQVIA
-Jan 2026 – Mar 2026
+**Jan 2026 – Mar 2026**
 
 - Applied SAS programming techniques for clinical data analysis, reporting, and dataset validation.
 - Worked with CDISC standards (SDTM & ADaM) to structure, transform, and validate clinical trial datasets.
